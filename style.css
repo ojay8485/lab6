@@ -1,0 +1,44 @@
+body{
+    background:white;
+    padding-left: 15%;
+    padding-right: 15%;
+    
+}
+
+
+#webpage_header{
+    background:#9932CC;
+    padding:20px 0 20px 20px;
+}
+
+#webpage_container{
+	    margin:0;
+		background:#F0F0F0;
+}
+
+#webpage_content{
+	    padding:0 20px 0 20px;
+}
+
+#title{
+    color:white;
+}
+
+.searchbutton{
+    border-radius:4px;
+    border:none;
+    color:white;
+    padding:6px 10px 6px 10px;
+    background-color: #2382A7;
+    cursor:pointer;
+    
+}
+#results{
+	 padding:0 20px 0 20px;
+}
+
+#search_box{
+    border-radius:2px;
+    border:1px lightgray solid;
+    padding: 5px;
+}
